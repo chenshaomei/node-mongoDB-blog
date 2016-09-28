@@ -61,5 +61,10 @@ cf目录：
 ```
 yog2 release --dest debug --watch
 ```
-打开浏览器输入http://localhost:8085s/
-如果一切OK，则进入博客的归档页面，登陆按钮在最下方。
+打开浏览器输入http://localhost:8085/
+
+
+![image](https://github.com/chenshaomei/node-mongoDB-blog/raw/master/screenImgs/1.png)
+![image](https://github.com/chenshaomei/node-mongoDB-blog/raw/master/screenImgs/2.png)
+![image](https://github.com/chenshaomei/node-mongoDB-blog/raw/master/screenImgs/3.png)
+![image](https://github.com/chenshaomei/node-mongoDB-blog/raw/master/screenImgs/4.png)
