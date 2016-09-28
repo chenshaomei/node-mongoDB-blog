@@ -1,0 +1,48 @@
+*{padding: 0;margin: 0;}
+html{min-height: 100%;position: relative;}
+html,body{width: 100%;font-size: 14px;color: #3d3d3d;font-family: "微软雅黑";font-family: Century Gothic,sans-serif; }
+ul{list-style: none;}
+a{text-decoration: none;}
+img{width: 100%;vertical-align: middle;}
+.cl{clear: both;}
+
+.wrap{width: 100%;margin-top: 60px;}
+.container {min-height: 100%;padding-bottom: 120px;}
+.inner{width: 1000px;margin: 0 auto;}
+/*导航*/
+.header{width: 100%;line-height: 60px;background: #fff;position: fixed;top: 0;left: 0;overflow: hidden;border-bottom: 1px solid #f2f2f2;}
+.header-inner{width: 1000px;margin: 0 auto;}
+.logo{float: left;width: 46px;width: 126px;}
+.nav{float: right;}
+.nav li{display: inline-block;}
+.nav li a{font-size: 16px;padding: 0 20px;color: #3d3d3d;line-height: 60px;}
+.nav li a:hover{color: #000;}
+
+
+/*尾部*/
+.footer{width: 1000px;margin-left:-500px;height: 120px; position: absolute;
+    bottom: 0;left:50%;text-align: center;}
+.footer div{
+    color: #aaa;
+    font-weight: 100;
+}
+.footer div.copyright {
+    font-size: 12px;
+    height: 40px;
+    padding-top: 26px;
+    border-top: 1px solid #ddd;
+}
+
+
+/*pre*/
+pre{
+	background-color: #394264!important;
+    font-size: 13px!important;
+    line-height: 19px!important;
+    overflow: auto;
+    padding: 6px 10px!important;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px 0px #908585, 0 0 0px rgba(0, 0, 0, 0.5) inset;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
